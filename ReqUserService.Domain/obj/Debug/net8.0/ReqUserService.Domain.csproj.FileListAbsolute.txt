@@ -1,0 +1,11 @@
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\bin\Debug\net8.0\ReqUserService.Domain.deps.json
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\bin\Debug\net8.0\ReqUserService.Domain.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\bin\Debug\net8.0\ReqUserService.Domain.pdb
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ReqUserService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ReqUserService.Domain.AssemblyInfoInputs.cache
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ReqUserService.Domain.AssemblyInfo.cs
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ReqUserService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ReqUserService.Domain.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\refint\ReqUserService.Domain.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ReqUserService.Domain.pdb
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Domain\obj\Debug\net8.0\ref\ReqUserService.Domain.dll

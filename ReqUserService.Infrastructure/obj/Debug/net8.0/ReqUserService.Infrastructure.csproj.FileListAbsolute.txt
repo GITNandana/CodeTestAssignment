@@ -1,0 +1,15 @@
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\bin\Debug\net8.0\ReqUserService.Infrastructure.deps.json
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\bin\Debug\net8.0\ReqUserService.Infrastructure.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\bin\Debug\net8.0\ReqUserService.Infrastructure.pdb
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\bin\Debug\net8.0\ReqUserService.Domain.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\bin\Debug\net8.0\ReqUserService.Domain.pdb
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.AssemblyInfo.cs
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserS.C4DBB033.Up2Date
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\refint\ReqUserService.Infrastructure.dll
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ReqUserService.Infrastructure.pdb
+C:\Users\nanda\source\repos\ReqUserService\ReqUserService.Infrastructure\obj\Debug\net8.0\ref\ReqUserService.Infrastructure.dll

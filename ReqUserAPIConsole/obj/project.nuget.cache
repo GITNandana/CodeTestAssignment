@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "euUg/2D50P0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nanda\\source\\repos\\ReqUserService\\ReqUserAPIConsole\\ReqUserAPIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\nanda\\.nuget\\packages\\microsoft.extensions.options\\9.0.4\\microsoft.extensions.options.9.0.4.nupkg.sha512",
+    "C:\\Users\\nanda\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512",
+    "C:\\Users\\nanda\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
