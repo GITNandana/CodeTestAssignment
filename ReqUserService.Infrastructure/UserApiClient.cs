@@ -39,9 +39,9 @@ namespace ReqUserService.Infrastructure
                     throw new ApiException($"Failed to fetch user: {response.ReasonPhrase}", response.StatusCode);
 
                 var content = await response.Content.ReadAsStringAsync();
-                var wrapper = JsonConvert.DeserializeObject<User>(content);
+                var wrapper = JsonConvert.DeserializeObject<JsonData>(content);
 
-                return wrapper;
+                return wrapper.Data;
             }
             catch (HttpRequestException ex)
             {
