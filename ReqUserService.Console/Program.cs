@@ -19,13 +19,15 @@ namespace ReqUserService.ConsoleApp
 
             // Test getting user by ID
             var user = await userService.GetUserByIdAsync(1);
-            Console.WriteLine($"{user.FirstName} {user.LastName} - {user.Email}");
+            Console.WriteLine(" UserService GetUserByID Data : ");
+            Console.WriteLine($"{user.First_Name} {user.Last_Name} - {user.Email}");
 
             // Test getting all users
             var users = await userService.GetAllUsersAsync();
+            Console.WriteLine(" UserService GetAllUsers Data : ");
             foreach (var u in users)
             {
-                Console.WriteLine($"{u.FirstName} {u.LastName}");
+                Console.WriteLine($"{u.First_Name} {u.Last_Name}");
             }
             Console.Read();
             Console.Read();
