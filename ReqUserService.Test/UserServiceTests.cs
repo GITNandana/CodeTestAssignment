@@ -30,7 +30,7 @@ namespace ReqUserService.Test
             {
             // Arrange
             var userId = 1;
-            var expectedUser = new User { Id = userId, FirstName = "Nandana", LastName = "Test", Email = "test@reqres.in" };
+            var expectedUser = new User { Id = userId, First_Name = "Nandana", Last_Name = "Test", Email = "test@reqres.in" };
 
             _memoryCache.Set($"User_{userId}", expectedUser);
 
@@ -46,7 +46,7 @@ namespace ReqUserService.Test
             public async Task GetAllUsersAsync_ShouldReturnListOfUsers()
             {
             var userId = 2;
-            var expectedUser = new User { Id = userId, FirstName = "New", LastName = "User", Email = "newuser@reqres.in" };
+            var expectedUser = new User { Id = userId, First_Name = "New", Last_Name = "User", Email = "newuser@reqres.in" };
 
             _mockApiClient
                 .Setup(x => x.GetUserByIdAsync(userId))
